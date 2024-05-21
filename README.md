@@ -11,7 +11,7 @@
 
 # [HyperVoxel](https://marketplace.visualstudio.com/items?itemName=MohamedAfraz.hypervoxel)
 
-The Best and Most Iconic AirTheme for Professional Developers who are using `Visual Studio Code`
+The Best and Most Iconic HyperVoxel Theme for Professional Developers who are using `Visual Studio Code`
 
 <br>
 
