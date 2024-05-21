@@ -1,0 +1,36 @@
+{
+  "name": "hypervoxel",
+  "displayName": "HyperVoxel",
+  "description": "HyperVoxel : The NEW Best Theme of 2024 </>",
+  "icon": "images/Icon.png",
+  "version": "1.6.3",
+  "publisher": "MohamedAfraz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MohamedAfraz/HyperVoxel"
+  },
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "mohamedafraz",
+    "afraztechnology",
+    "color-theme",
+    "darktheme",
+    "HyperVoxel",
+    "hypervoxel theme dark",
+    "theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "HyperVoxel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/HyperVoxel-color-theme.json"
+      }
+    ]
+  }
+}
